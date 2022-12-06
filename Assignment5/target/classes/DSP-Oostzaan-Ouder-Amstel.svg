@@ -1,0 +1,67 @@
+<?xml version='1.0' standalone='no'?>
+<svg width='20cm' height='30cm' viewBox='0 -625 300 300' preserveAspectRatio='xMidYMin'
+     version='1.1' xmlns='http://www.w3.org/2000/svg'>
+<line x1='112.594' y1='-484.824' x2='123.033' y2='-477.921' stroke-width='1.160' stroke='darkorange'/>
+<line x1='133.155' y1='-455.618' x2='123.033' y2='-477.921' stroke-width='1.160' stroke='darkorange'/>
+<line x1='127.667' y1='-482.856' x2='123.033' y2='-477.921' stroke-width='1.160' stroke='darkorange'/>
+<line x1='121.000' y1='-483.000' x2='123.033' y2='-477.921' stroke-width='1.160' stroke='darkorange'/>
+<line x1='123.033' y1='-477.921' x2='112.594' y2='-484.824' stroke-width='1.160' stroke='darkorange'/>
+<line x1='123.064' y1='-489.663' x2='112.594' y2='-484.824' stroke-width='0.600' stroke='lightskyblue'/>
+<line x1='121.000' y1='-483.000' x2='112.594' y2='-484.824' stroke-width='1.000' stroke='darkorange'/>
+<line x1='93.473' y1='-463.587' x2='112.594' y2='-484.824' stroke-width='1.000' stroke='darkorange'/>
+<line x1='104.334' y1='-494.614' x2='112.594' y2='-484.824' stroke-width='1.160' stroke='darkorange'/>
+<line x1='120.612' y1='-495.712' x2='112.594' y2='-484.824' stroke-width='1.000' stroke='darkorange'/>
+<line x1='123.033' y1='-477.921' x2='133.155' y2='-455.618' stroke-width='1.160' stroke='darkorange'/>
+<line x1='112.594' y1='-484.824' x2='123.064' y2='-489.663' stroke-width='0.600' stroke='lightskyblue'/>
+<line x1='127.667' y1='-482.856' x2='123.064' y2='-489.663' stroke-width='0.840' stroke='gold'/>
+<line x1='121.000' y1='-483.000' x2='123.064' y2='-489.663' stroke-width='0.600' stroke='lightskyblue'/>
+<line x1='120.612' y1='-495.712' x2='123.064' y2='-489.663' stroke-width='0.600' stroke='lightskyblue'/>
+<line x1='128.100' y1='-494.000' x2='123.064' y2='-489.663' stroke-width='0.840' stroke='gold'/>
+<line x1='123.033' y1='-477.921' x2='127.667' y2='-482.856' stroke-width='1.160' stroke='darkorange'/>
+<line x1='123.064' y1='-489.663' x2='127.667' y2='-482.856' stroke-width='0.840' stroke='gold'/>
+<line x1='132.783' y1='-480.137' x2='127.667' y2='-482.856' stroke-width='1.000' stroke='darkorange'/>
+<line x1='121.000' y1='-483.000' x2='127.667' y2='-482.856' stroke-width='1.000' stroke='darkorange'/>
+<line x1='128.100' y1='-494.000' x2='127.667' y2='-482.856' stroke-width='1.000' stroke='darkorange'/>
+<line x1='132.783' y1='-480.137' x2='154.631' y2='-464.878' stroke-width='1.000' stroke='darkorange'/>
+<line x1='123.033' y1='-477.921' x2='121.000' y2='-483.000' stroke-width='1.160' stroke='darkorange'/>
+<line x1='112.594' y1='-484.824' x2='121.000' y2='-483.000' stroke-width='1.000' stroke='darkorange'/>
+<line x1='127.667' y1='-482.856' x2='121.000' y2='-483.000' stroke-width='1.000' stroke='darkorange'/>
+<line x1='123.064' y1='-489.663' x2='121.000' y2='-483.000' stroke-width='0.600' stroke='lightskyblue'/>
+<line x1='112.594' y1='-484.824' x2='120.612' y2='-495.712' stroke-width='1.000' stroke='darkorange'/>
+<line x1='123.064' y1='-489.663' x2='120.612' y2='-495.712' stroke-width='0.600' stroke='lightskyblue'/>
+<line x1='128.100' y1='-494.000' x2='120.612' y2='-495.712' stroke-width='1.000' stroke='darkorange'/>
+<line x1='112.594' y1='-484.824' x2='93.473' y2='-463.587' stroke-width='1.000' stroke='darkorange'/>
+<line x1='112.594' y1='-484.824' x2='104.334' y2='-494.614' stroke-width='1.160' stroke='darkorange'/>
+<line x1='127.667' y1='-482.856' x2='132.783' y2='-480.137' stroke-width='1.000' stroke='darkorange'/>
+<line x1='154.631' y1='-464.878' x2='132.783' y2='-480.137' stroke-width='1.000' stroke='darkorange'/>
+<line x1='127.667' y1='-482.856' x2='128.100' y2='-494.000' stroke-width='1.000' stroke='darkorange'/>
+<line x1='123.064' y1='-489.663' x2='128.100' y2='-494.000' stroke-width='0.840' stroke='gold'/>
+<line x1='120.612' y1='-495.712' x2='128.100' y2='-494.000' stroke-width='1.000' stroke='darkorange'/>
+<circle cx='123.033' cy='-477.921' r='0.684' fill='yellowgreen'/>
+<text x='123.033' y='-479.221' font-size='3' fill='yellowgreen' text-anchor='middle'>Ouder-Amstel</text>
+<circle cx='112.594' cy='-484.824' r='0.819' fill='yellowgreen'/>
+<text x='112.594' y='-486.124' font-size='3' fill='yellowgreen' text-anchor='middle'>Badhoevedorp</text>
+<circle cx='133.155' cy='-455.618' r='1.648' fill='yellowgreen'/>
+<text x='133.155' y='-456.918' font-size='3' fill='yellowgreen' text-anchor='middle'>Utrecht</text>
+<circle cx='123.064' cy='-489.663' r='1.917' fill='yellowgreen'/>
+<text x='123.064' y='-490.963' font-size='3' fill='yellowgreen' text-anchor='middle'>Amsterdam</text>
+<circle cx='127.667' cy='-482.856' r='0.912' fill='yellowgreen'/>
+<text x='127.667' y='-484.156' font-size='3' fill='yellowgreen' text-anchor='middle'>Diemen</text>
+<circle cx='154.631' cy='-464.878' r='1.407' fill='yellowgreen'/>
+<text x='154.631' y='-466.178' font-size='3' fill='yellowgreen' text-anchor='middle'>Amersfoort</text>
+<circle cx='121.000' cy='-483.000' r='0.100' fill='yellowgreen'/>
+<text x='121.000' y='-484.300' font-size='3' fill='yellowgreen' text-anchor='middle'>Amsterdam-Z</text>
+<circle cx='120.612' cy='-495.712' r='0.583' fill='yellowgreen'/>
+<text x='120.612' y='-497.012' font-size='3' fill='yellowgreen' text-anchor='middle'>Oostzaan</text>
+<circle cx='93.473' cy='-463.587' r='1.343' fill='yellowgreen'/>
+<text x='93.473' y='-464.887' font-size='3' fill='yellowgreen' text-anchor='middle'>Leiden</text>
+<circle cx='104.334' cy='-494.614' r='1.053' fill='yellowgreen'/>
+<text x='104.334' y='-495.914' font-size='3' fill='yellowgreen' text-anchor='middle'>Velsen</text>
+<circle cx='132.783' cy='-480.137' r='0.791' fill='yellowgreen'/>
+<text x='132.783' y='-481.437' font-size='3' fill='yellowgreen' text-anchor='middle'>Weesp</text>
+<circle cx='128.100' cy='-494.000' r='0.100' fill='yellowgreen'/>
+<text x='128.100' y='-495.300' font-size='3' fill='yellowgreen' text-anchor='middle'>Amsterdam-N</text>
+<line x1='123.064' y1='-489.663' x2='120.612' y2='-495.712' stroke-width='1.250' stroke='lime'/>
+<line x1='121.000' y1='-483.000' x2='123.064' y2='-489.663' stroke-width='1.250' stroke='lime'/>
+<line x1='123.033' y1='-477.921' x2='121.000' y2='-483.000' stroke-width='1.250' stroke='lime'/>
+</svg>
